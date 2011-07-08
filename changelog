@@ -1,0 +1,11 @@
+tilestream (0.2.8-2) lucid; urgency=low
+
+  * Fix dependency issue.
+
+ -- Ian Ward <ian@developmentseed.org>  Fri, 08 Jul 2011 13:36:26 -0400
+
+tilestream (0.2.8-1) lucid; urgency=low
+
+  * Initial release.
+
+ -- Ian Ward <ian@developmentseed.org>  Thu, 07 Jul 2011 16:26:26 -0400
