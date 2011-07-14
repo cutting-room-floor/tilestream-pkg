@@ -4,19 +4,17 @@ Priority: extra
 Maintainer: Ian Ward <ian@developmentseed.org>
 Build-Depends: cdbs (>=0.4.42), 
  debhelper (>= 7),
- nodejs (>=0.4.8),
- libsqlite3-0,
- libsqlite3-dev
+ libsqlite3-0
 Standards-Version: 3.8.3
 Homepage: http://github.com/mapbox/tilestream
 
 Package: tilestream
-Architecture: any
+Architecture: amd64
 Depends: ${shlibs:Depends},
  ${misc:Depends},
  curl,
  nodejs (>=0.4.8),
- libsqlite3-0,
+ libsqlite3-0 (>=3.6),
  libsqlite3-dev
 Description: node.js mbtiles tile server
  A high performance tile server and simple web viewer
