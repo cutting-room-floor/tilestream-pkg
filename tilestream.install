@@ -1,3 +1,4 @@
+# Project source
 assets usr/share/tilestream
 commands usr/share/tilestream
 controllers usr/share/tilestream
@@ -13,3 +14,7 @@ README.md usr/share/tilestream
 UPGRADING.md usr/share/tilestream
 index.js usr/share/tilestream
 package.json usr/share/tilestream
+
+# Package helpers
+debian/tilestream.config etc/tilestream
+debian/tilestream.conf etc/init
