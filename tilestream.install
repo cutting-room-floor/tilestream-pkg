@@ -9,6 +9,7 @@ servers usr/share/tilestream
 templates usr/share/tilestream
 test usr/share/tilestream
 views usr/share/tilestream
+node_modules usr/share/tilestream
 LICENSE.md usr/share/tilestream
 README.md usr/share/tilestream
 UPGRADING.md usr/share/tilestream
