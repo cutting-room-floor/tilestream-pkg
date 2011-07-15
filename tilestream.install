@@ -19,3 +19,4 @@ package.json usr/share/tilestream
 # Package helpers
 debian/tilestream.config etc/tilestream
 debian/tilestream.conf etc/init
+debian/tilestream.rotate etc/logrotate.d
